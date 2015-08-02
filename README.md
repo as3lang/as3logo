@@ -112,7 +112,48 @@ only 1 background (red) to offer better readability.
 Download the logo
 -----------------
 
+![logo](sources/logo_64x64.png)
+logo  
+**the regular logo**  
+letters are 100% white  
+main rect is 100% red  
+secondary is 100% yellow  
+shadow is 20% black  
+SVG [download](sources/logo.svg)  
+PNG  
+[512x](sources/logo_512x512.png)
+[256x](sources/logo_256x256.png)
+[128x](sources/logo_128x128.png)
+[64x](sources/logo_64x64.png)
+[32x](sources/logo_32x32.png)
 
+
+![logo_a](sources/logo_a_64x64.png)
+logo_a  
+**a** for alpha  
+letters are 100% white  
+main rect is 40% black  
+secondary is 20% black  
+shadow is 20% black
+
+
+![logo_b](sources/logo_b_64x64.png)
+logo_b  
+**b** for black (and white)  
+letters are cut out  
+main rect is 100% black  
+secondary is 100% white  
+no shadow
+
+![logo_f](sources/logo_f_64x64.png)
+logo_f  
+**f** for flat  
+same as the regular logo  
+no shadow
+
+![logo_f](sources/logo_f_32x32.png)
+![logo_f](sources/logo_f2_32x32.png)
+when 32 pixels or less an alternative is to a unified red background
 
 
 
