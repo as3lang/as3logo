@@ -32,8 +32,8 @@ Here the preview of what we obtain
 
 If you are into marketing bullshit here how we would describe it:
 
-  The main red color associated with the yellow associate the identity to "Flash" (either the super hero or the technology), while the long shadow and the 45 degree cut emphasize on the "action" of rising from the ashes
-  (as the phoenix, pun related to "flash is dead").
+    The main red color associated with the yellow associate the identity to "Flash" (either the super hero or the technology), while the long shadow and the 45 degree cut emphasize on the "action" of rising from the ashes
+    (as the phoenix, pun related to "flash is dead").
 
 
 How to build the logo
@@ -62,8 +62,8 @@ see this tutorial [Techniques to Create a Trendy Long Shadow Effect](http://desi
 
 ![build](img/build_02.png)
 
-We have main color: red #f1463f
-and a secondary color: yellow #ffcc00
+We have a main color: red `#f1463f`  
+and a secondary color: yellow `#ffcc00`
 
 ![colors](img/colors.png)
 
