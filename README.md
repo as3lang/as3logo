@@ -32,7 +32,7 @@ Here the preview of what we obtain
 
 If you are into marketing bullshit here how we would describe it:
 
-    The main red color associated with the yellow associate the identity to "Flash"
+    The main red color combined with a touch of yellow associate the identity to "Flash"
     (either the super-hero or the technology), while the long shadow and the 45 degree cut
     emphasize on the "action" of rising from the ashes (as the phoenix), all that
     to say the opposite of "flash is dead", no AS3 is not dead.
