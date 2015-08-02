@@ -112,7 +112,7 @@ only 1 background (red) to offer better readability.
 Download the logo
 -----------------
 
-![logo](sources/logo_64x64.png)
+![logo](sources/logo_64x64.png)  
 logo  
 **the regular logo**  
 letters are 100% white  
@@ -128,32 +128,52 @@ PNG
 [32x](sources/logo_32x32.png)
 
 
-![logo_a](sources/logo_a_64x64.png)
+![logo_a](sources/logo_a_64x64.png)  
 logo_a  
 **a** for alpha  
 letters are 100% white  
 main rect is 40% black  
 secondary is 20% black  
-shadow is 20% black
+shadow is 20% black  
+PNG  
+[512x](sources/logo_a_512x512.png)
+[256x](sources/logo_a_256x256.png)
+[128x](sources/logo_a_128x128.png)
+[64x](sources/logo_a_64x64.png)
+[32x](sources/logo_a_32x32.png)
 
 
-![logo_b](sources/logo_b_64x64.png)
+![logo_b](sources/logo_b_64x64.png)  
 logo_b  
 **b** for black (and white)  
 letters are cut out  
 main rect is 100% black  
 secondary is 100% white  
-no shadow
+no shadow  
+PNG  
+[512x](sources/logo_b_512x512.png)
+[256x](sources/logo_b_256x256.png)
+[128x](sources/logo_b_128x128.png)
+[64x](sources/logo_b_64x64.png)
+[32x](sources/logo_b_32x32.png)
 
-![logo_f](sources/logo_f_64x64.png)
+
+![logo_f](sources/logo_f_64x64.png)  
 logo_f  
 **f** for flat  
 same as the regular logo  
-no shadow
+no shadow  
+PNG  
+[512x](sources/logo_f_512x512.png)
+[256x](sources/logo_f_256x256.png)
+[128x](sources/logo_f_128x128.png)
+[64x](sources/logo_f_64x64.png)
+[32x](sources/logo_f_32x32.png)
 
 ![logo_f](sources/logo_f_32x32.png)
-![logo_f](sources/logo_f2_32x32.png)
-when 32 pixels or less an alternative is to a unified red background
+![logo_f](sources/logo_f2_32x32.png)  
+when 32 pixels or less an alternative
+is to use a unified red background
 
 
 
