@@ -172,7 +172,7 @@ PNG
 
 ![logo_f](sources/logo_f_32x32.png)
 ![logo_f](sources/logo_f2_32x32.png)  
-when 32 pixels or less an alternative
+when 32 pixels or less an alternative  
 is to use a unified red background
 
 
