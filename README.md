@@ -5,16 +5,16 @@ as3logo
 
 If you search online for an AS3 logo you can find different things
 
-this one quite popular
+this one quite popular  
 ![AS3](img/old_AS3.png)
 
-another one
+another one  
 ![ActionScript](img/old_ActionScript.jpg)
 
 and a couple more.
 
 
-To promote the ActionScript 3.0 language we thought we should own our logo so we can make it open source and share it with the community.
+To promote the **ActionScript 3.0 language** we thought we should own our logo so we can make it open source and share it with the community.
 
 After some [discussions and contributions](https://github.com/as3lang/www.as3lang.org/issues/2) we decided to go with two main inspirations.
 
@@ -43,14 +43,14 @@ How to build the logo
 
 ![build](img/build.png)
 
-We're working in Illustrator but any other tool would do,
+We're working in Illustrator but any other tool would do,  
 we use the Myriad Pro font.
 
 
-We start with a 3x3 grid to build a rectangle,
+We start with a 3x3 grid to build a rectangle,  
 we split this rectangle at a 45 degree angle.
 
-We write the letters "As" and allign it to the center,
+We write the letters "As" and allign it to the center,  
 and push the surrounding box to be alligned to the bottom of the rectangle.
 
 We write the number "3" and allign it top-right.
@@ -72,18 +72,18 @@ and a secondary color: yellow `#ffcc00`
 We fill the background with them.
 
 
-If you resize the logo those long shadow can be problematic,
+If you resize the logo those long shadow can be problematic,  
 so we need to "solidify" them.
 
-First, we need to resize our logo to a 512x512 rectangle,
+First, we need to resize our logo to a `512x512` rectangle,  
 this to obtain a smoother shadow (to avoid the dent).
 
-Second, we select our font and Object/Expand Appearance
+Second, we select our font and `Object/Expand Appearance`
 
 ![build](img/build_03.png)
 ![build](img/build_04.png)
 
-Third, we select the font again and Object/Expand...
+Third, we select the font again and `Object/Expand...`
 
 ![build](img/build_05.png)
 ![build](img/build_06.png)
@@ -105,7 +105,7 @@ Here the render with different size
 
 ![size](img/size.png)
 
-For size less than 32 pixels we think it is preferable to use
+For size less than 32 pixels we think it is preferable to use  
 only 1 background (red) to offer better readability.
 
 
